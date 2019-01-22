@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Рик и Морти](https://i.ytimg.com/vi/j__CnbfTqBU/maxresdefault.jpg)
